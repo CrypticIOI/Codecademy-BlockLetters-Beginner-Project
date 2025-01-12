@@ -57,7 +57,6 @@ Letters_Y = [Letter_Y1, Letter_Y2, Letter_Y3, Letter_Y4, Letter_Y5, Letter_Y6, L
 Letters_P = [Letter_P1, Letter_P2, Letter_P3, Letter_P4, Letter_P5, Letter_P6, Letter_P7]
 Letters_T = [Letter_T1, Letter_T2, Letter_T3, Letter_T4, Letter_T5, Letter_T6, Letter_T7]
 Letters_I = [Letter_I1, Letter_I2, Letter_I3, Letter_I4, Letter_I5, Letter_I6, Letter_I7]
-Letters_C2 = [Letters_C]
 
 for c, r, y, p, t, i, in zip(Letters_C, Letters_R, Letters_Y, Letters_P, Letters_T, Letters_I,):
     print(c + "  " + "  " + r + "  " + y + "  " + p + "  " + t + "  " + i + "  " + c)
