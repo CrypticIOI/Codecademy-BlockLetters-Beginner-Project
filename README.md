@@ -2,3 +2,5 @@ a little back story, ive been wanting to code for quiet some time now and i neve
 
 using block letters, i made my name in ascii art...kinda..idk looks awesome to me so its a awesome start to an awesome journey
 lowkey was really fun to do
+
+Edit : Forgot to say ive included the hint png they gave me
